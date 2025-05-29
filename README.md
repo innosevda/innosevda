@@ -22,6 +22,3 @@
 ## 📫 Contact Me
 
 You can reach me via: 💼 [LinkedIn](https://www.linkedin.com/in/sevdaliyeva/)  
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=innosevda&show_icons=true)
